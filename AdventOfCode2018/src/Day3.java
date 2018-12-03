@@ -53,7 +53,7 @@ public class Day3 {
 		                j = topEdge;
 		            }
 			}
-		}
+		} 
 			
 			for(String line2 : inputLines) {
 				StringTokenizer data2 = new StringTokenizer(line2);
